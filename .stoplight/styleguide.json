@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Ydkxhnrp",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY",
+      "name": "Electronic Bronze Hat",
+      "slug": "seeded-electronic-bronze-hat-0o5pe",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
